@@ -1,0 +1,12 @@
+.body {
+    
+    background:rgba(247,247,247,255);
+}
+.container-main{
+    margin-top: 5%;
+    margin-left:2%;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto auto auto
+ 
+}
